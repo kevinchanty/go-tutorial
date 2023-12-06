@@ -3,4 +3,5 @@ go 1.21.4
 use (
 	./2-Create-a-Go-Module/greetings
 	./2-Create-a-Go-Module/hello
+	./advent-of-code-2023/day-1
 )
